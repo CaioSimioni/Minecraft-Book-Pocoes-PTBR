@@ -1,6 +1,6 @@
 # Minecraft Book Poções PTBR
 
-![Capa do Livro](public/capa.png)
+![Capa do Livro](.public/capa.png)
 
 Este projeto é um resumo das poções do jogo Minecraft, escrito por CaioSimioni.
 
