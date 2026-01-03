@@ -11,3 +11,17 @@ Ideal para consulta rápida, aprendizado e organização das receitas dentro das
 ---
 
 **Autor:** CaioSimioni
+
+---
+
+## Examplos:
+
+![Introdução](.public/introducao.png)
+
+![Conteitos](.public/conceitos.png)
+
+![Modificadores](.public/modificadores.png)
+
+![Receitas](.public/receitas.png)
+
+![Exemplo](.public/visao_noturna.png)
