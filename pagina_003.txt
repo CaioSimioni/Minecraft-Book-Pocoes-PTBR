@@ -1,0 +1,7 @@
+Conceitos          
+-------------------
+{Suporte de Poções}
+
+ Bloco interativo que permite a fabrição de poções manual ou automática.
+Pode ser encontrado em Vilas, ou criado usando Vara de Blaze e Pedregulhos.
+ Utiliza Pó de Blaze para funcionar.

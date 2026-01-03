@@ -1,0 +1,10 @@
+Fraqueza
+-------------------
+Reduz o dano de ataque corpo a corpo.
+
+Ingredientes
+- Frasco de água 
+- Olho de aranha fermentado
+
+[x] Prolongada
+[ ] Potencializada

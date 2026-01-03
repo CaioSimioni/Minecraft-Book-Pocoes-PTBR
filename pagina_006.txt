@@ -1,0 +1,6 @@
+Conceitos          
+-------------------
+{Poção Estranha}
+
+ Base para todas as poções de efeito.
+ Fabricada com Frasco de água fermentado com Fungo do Nether no Suporte de Poções.

@@ -1,0 +1,10 @@
+Resistência ao Fogo
+-------------------
+Imunidade a danos de fogo
+
+Ingredientes
+- Poção Estranha
+- Creme de magma
+
+[x] Prolongada
+[ ] Potencializada

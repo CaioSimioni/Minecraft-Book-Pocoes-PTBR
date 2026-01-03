@@ -1,0 +1,8 @@
+Modificadores
+-------------------
+
+- Pólvora:
+Transforma poção normal em poção arremessável 
+
+- Bafo do dragão:
+Transforma poção arremessável em poção prolongada 

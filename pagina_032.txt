@@ -1,0 +1,10 @@
+Mestre-Tartaruga
+-------------------
+Reduz o dano recebido, mas diminui muito a velocidade.
+
+Ingredientes
+- Poção Estranha 
+- Casco de tartaruga
+
+[x] Prolongada
+[x] Potencializada

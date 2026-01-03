@@ -1,0 +1,10 @@
+Supersalto
+-------------------
+Aumenta a altura do salto.
+
+Ingredientes
+- Poção Estranha
+- Pé de coelho
+
+[x] Prolongada
+[x] Potencializada

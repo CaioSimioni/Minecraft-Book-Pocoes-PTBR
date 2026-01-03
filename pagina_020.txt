@@ -1,0 +1,10 @@
+Regeneração
+-------------------
+Restaura a saúde a cada 2,5 seg.
+
+Ingredientes
+- Poção Estranha
+- Lágrima de ghast
+
+[x] Prolongada
+[x] Potencializada

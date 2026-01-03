@@ -1,0 +1,10 @@
+Veneno
+-------------------
+Perde vida a cada 1,25 seg.
+
+Ingredientes
+- Poção Estranha
+- Olho de aranha
+
+[x] Prolongada
+[x] Potencializada

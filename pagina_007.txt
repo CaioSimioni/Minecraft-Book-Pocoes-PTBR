@@ -1,0 +1,6 @@
+Conceitos          
+-------------------
+{Aprimoramentos}
+
+ Utilização de modificadores para fazer uma troca entre duração e potência.
+

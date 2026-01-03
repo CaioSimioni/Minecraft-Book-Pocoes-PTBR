@@ -1,0 +1,10 @@
+Invisibilidade
+-------------------
+Torne-se invisível. Itens equipados e portados ainda são visíveis. 
+
+Ingredientes
+- Poção Estranha
+- Olho de aranha fermentado
+
+[x] Prolongada
+[ ] Potencializada

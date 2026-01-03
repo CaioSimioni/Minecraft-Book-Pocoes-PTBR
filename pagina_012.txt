@@ -1,0 +1,6 @@
+Conceitos          
+-------------------
+{Bafo do Dragão}
+
+ É um item de fermentação usado para fazer poção prolongada. 
+ Conseguído apenas na batalha contra o dragão do fim.

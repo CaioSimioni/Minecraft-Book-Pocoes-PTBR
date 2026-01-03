@@ -1,0 +1,11 @@
+Modificadores
+-------------------
+
+- Pó de redstone:
+Prolonga a duração
+
+- Pó de pedra luminosa:
+Melhora o nível
+
+- Olho de aranha fermentado:
+Efeito de corrupção 

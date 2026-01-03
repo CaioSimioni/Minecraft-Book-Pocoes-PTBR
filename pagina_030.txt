@@ -1,0 +1,10 @@
+Dano
+-------------------
+Causa 6♥♥♥ de dano.
+
+Ingredientes
+- Poção de Cura ou Veneno
+- Olho de aranha fermentado
+
+[ ] Prolongada
+[x] Potencializada

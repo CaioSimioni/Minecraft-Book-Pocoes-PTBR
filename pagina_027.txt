@@ -1,0 +1,10 @@
+Queda Lenta
+-------------------
+Caia mais devagar e não sofra nenhum dano ao atingir o solo.
+
+Ingredientes
+- Poção Estranha
+- Membrana de phantom
+
+[x] Prolongada
+[ ] Potencializada

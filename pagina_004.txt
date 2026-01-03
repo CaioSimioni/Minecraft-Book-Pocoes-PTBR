@@ -1,0 +1,10 @@
+Conceitos          
+-------------------
+{Frasco de Vidro}
+
+ Frasco criado com 3 vidros na Mesa de Trabalho.
+
+
+{Frasco de Água}
+
+ Frasco de vidro cheio com Água.

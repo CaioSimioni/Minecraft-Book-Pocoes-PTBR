@@ -1,0 +1,10 @@
+Força
+-------------------
+Aumenta o dano do ataque corpo a corpo.
+
+Ingredientes
+- Poção Estranha
+- Pó de blaze
+
+[x] Prolongada
+[x] Potencializada
